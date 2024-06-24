@@ -1,7 +1,3 @@
 # excel-sheet-generator
 
-hello there, your task is to use sweetalert.js to display an alert when the user clicks "generate" while the fields are empty, and when the user clicks "export" but there is no generated table to be exported.
-
-fork the repository and start working on it.
-
-best of luck.
+Hello! This project is an Excel sheet generator that allows users to create and export a dynamically generated table to an Excel file. The tool provides a simple interface for users to input the number of rows and columns they desire, and it utilizes sweetalert.js to provide user-friendly alerts when necessary.
